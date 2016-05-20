@@ -1,0 +1,2 @@
+Q - How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A - By using the diff tool, it automatically showed us the changes that were made to the files. It was easier to locate the bug that way.
